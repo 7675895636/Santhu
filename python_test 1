@@ -3,4 +3,3 @@
 
 st="lollipop"
 st.replace('l', 'L')
-'LoLLipop'
