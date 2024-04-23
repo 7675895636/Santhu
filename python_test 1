@@ -1,0 +1,6 @@
+
+#You are given a string. Write a Python program to replace all occurrences of the character 'l' (lowercase L) with 'L' (uppercase L) and print the modified string.
+
+st="lollipop"
+st.replace('l', 'L')
+'LoLLipop'
